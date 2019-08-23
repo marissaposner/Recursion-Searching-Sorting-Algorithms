@@ -13,7 +13,7 @@ For instance, consider the following set of strings: “Other entries include a 
 
 *Sorting:*
 1. Implement the four algorithms mentioned above.
-Provide a table (attached in a word document) where you compare the running time of the sorting algorithms mentioned below in terms of best case and worst case running time.
+The table in the word document compares the running time of the sorting algorithms mentioned below in terms of best case and worst case running time.
 1. Bubble Sort Non-Recursive 
 2. Bubble Sort Recursive 
 3. Selection Sort (Non-recursive) 
