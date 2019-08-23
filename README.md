@@ -9,7 +9,7 @@ For instance, consider the following set of strings: “Other entries include a 
 *Recursion:*
 1. Design and implement a binary recursive algorithm that finds the maximum number in array of size n.
 2. Design and implement a recursive algorithm that returns the number of zeroes in the binary representation of N without using arrays. The input to the algorithm must be an integer N. Your algorithm should not calculate the binary representation of N but recursively finds the number of zeroes in the binary representation of N. 
-3. Implement a recursive algorithm that checks if word is A palindrome. Ignores punctuation
+3. Implement a recursive algorithm that checks if word is a palindrome. Ignores punctuation
 
 *Sorting:*
 1. Implement the four algorithms mentioned above.
