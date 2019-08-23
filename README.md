@@ -1,4 +1,4 @@
-# Recursion-Searching-Sorting-Algorithms in Java
+# Recursion, Searching, and Sorting Algorithms in Java
 Assignment for Data Structures
 
 *Arrays:*
